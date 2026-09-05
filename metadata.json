@@ -1,0 +1,8 @@
+{
+  "name": "ClearFlow - Parallel Multi-Agent University Clearance",
+  "description": "Automated multi-agent clearance pipeline resolving university graduation sign-offs in seconds with parallel Finance, Library, and Department audit agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
